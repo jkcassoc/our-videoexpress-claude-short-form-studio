@@ -105,3 +105,11 @@ CREATIVE DIRECTION:
 - **Scene 5 (0:20.2–0:28.2 / 8s)**: Master seated portrait; slow cinematic push-in toward peaceful expression.
   - *Audio 2 (0:22.9–0:25.4)*: *"Discover your calm at zengen u s a .com."* (Phonetic fix)
   - *Outro (0:25.4–0:28.2)*: Clean visual hold for overlaid text CTA.
+
+---
+
+## Related Video-Creation Workflow
+
+[Our VideoExpress Consistent-Character Talking-Video Workflow](https://github.com/jkcassoc/our-videoexpress-consistent-character-talking-video)
+
+Use this related repository for our consistent-character talking-video workflow. This playbook covers our short-form brand-video planning and production process.
