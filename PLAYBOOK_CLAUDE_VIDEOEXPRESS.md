@@ -112,4 +112,4 @@ CREATIVE DIRECTION:
 
 [Our VideoExpress Consistent-Character Talking-Video Workflow](https://github.com/jkcassoc/our-videoexpress-consistent-character-talking-video)
 
-Use this related repository for our consistent-character talking-video workflow. This playbook covers our short-form brand-video planning and production process.
+Use this related repository for our consistent-character talking-video workflow. This playbook covers our short-form brand-video planning and production process. 10/19/2028
